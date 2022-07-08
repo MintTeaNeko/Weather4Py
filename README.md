@@ -1,7 +1,11 @@
 # Weather4Py
 a weather library for python to get the weather of a location or set of coordinates, with the ability to save to a json.
 
-here's some examples to how to use the library.
+# How to Install
+
+  `pip install weather4py`
+
+# Here's some examples to how to use the library.
 ```py
 from WeatherPy import WeatherMan
 
